@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"list",
+				"listview	ListView"
+			],
+			[
+				"LANGUAGE",
+				"LANGUAGE_CODE"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"attr",
+				"attr	.attr() - multiple"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"boo",
+				"bool"
+			],
+			[
+				"date",
+				"date_hierarchy"
+			],
+			[
+				"ip",
+				"ipaddress	IPAddressField"
+			],
+			[
+				"viwe",
+				"View"
+			],
+			[
+				"Mat",
+				"MaterialTecnico"
+			],
+			[
+				"fild",
+				"fieldsets	fieldsets"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hel",
+				"help_text"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"vie",
+				"view	View"
+			],
+			[
+				"admin",
+				"admin	admin"
+			],
+			[
+				"defau",
+				"default"
+			],
+			[
+				"for",
+				"FormView"
+			],
+			[
+				"view",
+				"View"
+			],
+			[
+				"import",
+				"imports	imports"
+			],
+			[
+				"image",
+				"imagem_mobile"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"video",
+				"video_atual"
+			],
+			[
+				"em",
+				"embalagens"
+			],
+			[
+				"data",
+				"data_list"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"OBJEC",
+				"get_object_or_404"
+			],
+			[
+				"lINHA",
+				"LinhaTempo"
+			],
+			[
+				"defaul",
+				"defaultfilters"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"input",
+				"input	input - hidden"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ver",
+				"verbose_name"
+			],
+			[
+				"data_a",
+				"data_avalicacao_comite"
+			],
+			[
+				"nul",
+				"null"
+			],
+			[
+				"is",
+				"isvalid"
+			],
+			[
+				"Linha",
+				"LinhaTempo"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"dat",
+				"data	data"
+			],
+			[
+				"Cul",
+				"Cultura"
+			],
+			[
+				"Esp",
+				"EspecieAlvo"
+			],
+			[
+				"Fase",
+				"FaseDesenvolvimento"
+			],
+			[
+				"di",
+				"diff_menor"
+			],
+			[
+				"diff",
+				"diff_maior"
+			],
+			[
+				"pro",
+				"prox_maior"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sucesso",
+				"sucessos"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"Lan",
+				"Lancamento"
+			],
+			[
+				"Gere",
+				"GerenteNacional"
+			],
+			[
+				"rer",
+				"retorno"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"fal",
+				"falta_perg"
+			],
+			[
+				"slug",
+				"slug_produto"
+			],
+			[
+				"rr",
+				"rrtr	rrtr"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"novos",
+				"novos_dict"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"esqueci",
+				"esqueci_senha"
+			],
+			[
+				"regi",
+				"regional2"
+			],
+			[
+				"MARGIN",
+				"margin-right"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"regional",
+				"regional1"
+			],
+			[
+				"_",
+				"__str__"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Acao",
+				"AcaoForm"
+			],
+			[
+				"hora",
+				"horas_dict"
+			],
+			[
+				"hor",
+				"horas_dict"
+			],
+			[
+				"cadastro_",
+				"cadastro__email"
+			],
+			[
+				"cadastro",
+				"cadastro__email"
+			],
+			[
+				"cam",
+				"campanha_produto"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"cot",
+				"cotacoes_home"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pra",
+				"params"
+			],
+			[
+				"corr",
+				"correcao"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"foo",
+				"forloop"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"lo",
+				"loading-cadastro"
+			],
+			[
+				"valida",
+				"valida_esqueci"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bar",
+				"background-color"
+			],
+			[
+				"LIST",
+				"list_filter"
+			],
+			[
+				"Opc",
+				"OpcaoInline"
+			],
+			[
+				"tab",
+				"tabela1"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"admn",
+				"adminimport	adminimport"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cont_",
+				"cont_pergunta"
+			],
+			[
+				"tr",
+				"text-transform"
+			],
+			[
+				"pergun",
+				"perguntas"
+			],
+			[
+				"tempo",
+				"tempo-esgotado"
+			],
+			[
+				"resposta",
+				"resposta_usuario"
+			],
+			[
+				"per",
+				"perguntas_pendentes"
+			],
+			[
+				"perguntas",
+				"perguntas_respondidas"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"TEMPO",
+				"TEMPO_ESGOTADO"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: model",
+				"Snippet: Model Skeleton"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/plugins/ie8_fix_maxwidth/ie8_fix_maxwidth.js",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/blog/blog.js",
+		"/C/wamp/www/ourofino/03_site/blog/views.py",
+		"/C/wamp/www/ourofino/03_site/app/urls.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/css/styles.css",
+		"/C/wamp/www/ourofino/03_site/blog/models.py",
+		"/C/wamp/www/ourofino/03_site/blog/admin.py",
+		"/C/wamp/www/ourofino/03_site/blog/urls.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/functions.js",
+		"/C/wamp/www/ourofino/03_site/noticias/urls.py",
+		"/C/wamp/www/ourofino/03_site/noticias/views.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/visitas-a-fabrica.html",
+		"/C/wamp/www/ourofino/03_site/noticias/urls.py~RFb64eaf.TMP",
+		"/C/wamp/www/ourofino/03_site/noticias/models.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/paginacao-visitas.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/noticias.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/paginacao.html",
+		"/C/wamp/www/ourofino/03_site/app/urls.py~RFa450ff.TMP",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/base.html",
+		"/C/wamp/www/ourofino/03_site/noticias/admin.py",
+		"/C/wamp/www/ourofino/03_site/util/util.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/eventos.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/interna-produto.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/lista-produtos.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/paginacao.html",
+		"/C/wamp/www/ourofino/03_site/produtos/views.py",
+		"/C/Users/jose.cruz/Desktop/Once.Upon.a.Time.S01E01 Pilot.LOL.srt",
+		"/C/Users/jose.cruz/Desktop/FISPQ PRODUTOS OURO FINO/lista.txt",
+		"/C/wamp/www/ourofino/03_site/appviews/ptbr_views.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/index.html",
+		"/C/wamp/www/ourofino/03_site/produtos/models.py",
+		"/C/wamp/www/ourofino/03_site/requirements.txt",
+		"/C/wamp/www/ourofino/03_site/produtos/admin.py",
+		"/C/Users/jose.cruz/Desktop/FICHAS DE EMERGÊNCIA DE PRODUTO/lista.txt",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/es/index.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/ch/index.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/bg-video/index.html",
+		"/C/wamp/www/ourofino/03_site/app/static/ckeditor/ckeditor/samples/index.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/index.js",
+		"/C/wamp/www/ourofino/03_site/banners/fixtures/initial_data.json",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/produtos/interna.js",
+		"/C/wamp/www/ourofino/03_site/app/settings.py",
+		"/C/wamp/www/ourofino/03_site/app/download_imagens.py",
+		"/C/wamp/www/ourofino/03_site/videos/admin.py",
+		"/C/wamp/www/ourofino/03_site/videos/models.py",
+		"/C/wamp/www/ourofino/03_site/app/media/uploads/videos/imagem/2014/carga.txt",
+		"/C/wamp/www/ourofino/03_site/batch.txt",
+		"/C/Users/jose.cruz/Desktop/videos.sql",
+		"/C/wamp/www/ourofino/03_site/noticias/templates/crop_release/crop.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/ourofino-noticias.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/endless/show_more.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/endless_pagination/templates/endless/show_more.html",
+		"/C/wamp/www/ourofino/03_site/noticias/admin_views.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/includes/menu.html",
+		"/C/wamp/www/ourofino/03_site/app/media/blog2.xml",
+		"/C/wamp/www/ourofino/03_site/app/media/blog3.xml",
+		"/C/wamp/www/ourofino/03_site/produtos/urls.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/noticias/artigos-tecnicos.html",
+		"/C/wamp/www/ourofino/03_site/.gitignore",
+		"/C/wamp/www/ourofino/03_site/util/templatetags/site_tags.py",
+		"/C/wamp/www/ourofino/03_site/produtos/templatetags/produtos_tags.py",
+		"/C/wamp/www/email-mkt/25 Emails - GRUPOS-CLIENTES/lista.txt",
+		"/C/wamp/www/ourofino/03_site/materiais_tecnicos/models.py",
+		"/C/wamp/www/ourofino/03_site/materiais_tecnicos/admin.py",
+		"/C/wamp/www/ourofino/03_site/timeline/admin.py",
+		"/C/wamp/www/ourofino/03_site/produtos/admin_views.py",
+		"/C/wamp/www/ourofino/03_site/produtos/templates/verifica-embalagens.html",
+		"/G/articles/index.php",
+		"/C/wamp/www/ourofino/07_Backup/articles/index.php",
+		"/C/wamp/www/testes/pessoal/jquery.meiomask.9digito/README.md",
+		"/C/Users/jose.cruz/Desktop/index.html",
+		"/C/wamp/www/ourofino/03_site/produtos/templates/crop_produtos/crop.html",
+		"/C/wamp/www/ourofino/03_site/trabalhe_conosco/admin.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/institucional/atuacao.js",
+		"/C/wamp/www/ourofino/03_site/trabalhe_conosco/models.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/atuacao.html~RF1877f64.TMP",
+		"/C/wamp/www/ourofino/03_site/fabfile.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/atuacao.html",
+		"/C/wamp/www/ourofino/03_site/trabalhe_conosco/fixtures/initial_data.json",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/scripts.js",
+		"/C/wamp/www/ourofino/03_site/appviews/ptbr_urls.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/sobre-a-ourofino.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/reconhecimento.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/responsabilidade-social.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/novos-parceiros.html",
+		"/C/wamp/www/ourofino/03_site/timeline/models.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/includes/menu.html",
+		"/C/Users/jose.cruz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jose.cruz/Desktop/campanha-master.txt",
+		"/C/wamp/www/ourofino/03_site/trabalhe_conosco/views.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/trabalhe_conosco/vagas.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/institucional/institucional.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/contato/contato.html",
+		"/C/wamp/www/ourofino/03_site/contato/views.py",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/busca.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/identidade_visual.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/includes/breadcumbs.html",
+		"/C/wamp/www/ourofino/02_layout/interna-produto.html",
+		"/C/wamp/www/ourofino/03_site/hotsites/models.py",
+		"/C/wamp/www/ourofino/03_site/hotsites/admin.py",
+		"/C/Users/jose.cruz/Desktop/Troca Gustavo Melges.txt",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/plugins/jquery.sronly.lightbox/jquery.sronly.lightbox.js",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/plugins/jquery.sronly.lightbox/jquery.sronly.lightbox.css",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/plugins/jquery.sronly.lightbox/jquery.sronly.lightbox.min.js",
+		"/C/wamp/www/ourofino/03_site/app/static/site/js/plugins/jquery.sronly.lightbox/jquery.sronly.lightbox.min.css",
+		"/C/wamp/www/testes/pessoal/jquery.sronly.lightbox/jquery.sronly.lightbox.min.js",
+		"/C/wamp/www/testes/pessoal/jquery.sronly.lightbox/README.md",
+		"/C/wamp/www/testes/pessoal/jquery.sronly.lightbox/.git/config",
+		"/C/wamp/www/ourofino/02_layout/lista-produtos.html",
+		"/C/wamp/www/ourofino/02_layout/index.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/includes/categorias.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/includes/menu.html",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/videos.html",
+		"/C/wamp/www/ourofino/02_layout/styles.css",
+		"/C/wamp/www/ourofino/03_site/app/static/site/css/rwd.css",
+		"/C/wamp/www/ourofino/03_site/app/static/site/templates/pt-br/produtos/produtos.html",
+		"/C/wamp/www/ourofino/03_site/busca/views.py",
+		"/C/wamp/www/ourofino/03_site/trabalhe_conosco/urls.py",
+		"/C/wamp/www/ourofino/03_site/identidade_visual/urls.py",
+		"/C/wamp/www/ourofino/03_site/identidade_visual/views.py",
+		"/C/wamp/www/ourofino/03_site/contato/admin.py",
+		"/C/wamp/www/ourofino/03_site/identidade_visual/admin.py",
+		"/C/wamp/www/ourofino/03_site/identidade_visual/models.py",
+		"/C/wamp/www/ourofino/03_site/banners/models.py",
+		"/C/wamp/www/ourofino/03_site/busca/urls.py",
+		"/C/wamp/www/ourofino/03_site/banners/admin.py",
+		"/C/wamp/www/ourofino/03_site/blog/admin_views.py",
+		"/C/wamp/www/ourofino/03_site/banners/urls.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"*.html",
+			"*.js",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.html",
+			"*.py",
+			"*.html",
+			"",
+			"*.html",
+			"*.js",
+			"*.html",
+			"",
+			"C:\\wamp\\www,fabfile.py",
+			"*.py",
+			"",
+			"*.py",
+			"views.py",
+			"",
+			"views.py",
+			"*.html",
+			"views.py",
+			"urls.py",
+			"*.py",
+			"*.css",
+			"",
+			"Tipos de Produtos",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.js",
+			"*.py",
+			"*.html",
+			"",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.pyc",
+			"",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.py",
+			"views.py",
+			"*.py",
+			"*.js",
+			"",
+			"*.py,C:\\wamp\\www\\inovar\\03_Site\\svn\\contato",
+			"*.py",
+			"*.html",
+			".html",
+			"",
+			"C:\\Users\\jose.cruz\\Desktop\\django-cep-1.0.1\\django-cep-1.0.1",
+			"*.py",
+			"*.html",
+			"*.py",
+			"",
+			"*.css",
+			"*.html",
+			"*.js",
+			"*.css",
+			"*.js",
+			"C:\\Users\\jose.cruz\\Downloads\\Luis\\bibliotecas\\__PUBDESIGN\\, *.py",
+			"admin.py",
+			"*.py",
+			"C:\\Users\\jose.cruz\\Downloads\\Luis\\bibliotecas\\__PUBDESIGN\\, *.py",
+			"C:\\Users\\jose.cruz\\Downloads\\Luis\\bibliotecas\\__PUBDESIGN\\native_loja",
+			"*.css",
+			"admin.py",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.css",
+			"*.py",
+			"",
+			"*.txt",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.css",
+			"*.py",
+			"",
+			"*.html",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"",
+			"*.py",
+			"*.js",
+			"*.py",
+			"C:\\wamp\\www",
+			"*.*",
+			"*.py",
+			"*.JS",
+			"*.py",
+			"",
+			"*.css",
+			"*.js",
+			"*.css",
+			"",
+			"*.py",
+			"C:\\django14\\Lib\\site-packages\\django\\contrib\\admin\\templates\\admin",
+			"*.html,C:\\django14\\Lib\\site-packages\\django\\contrib\\admin\\templates\\admin",
+			"*.html",
+			"",
+			"C:\\Program Files (x86)\\Intype\\bundles\\Django.itBundle\\snippets",
+			"C:\\Program Files (x86)\\Intype\\bundles\\Django.itBundle\\snippetsutf8",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.php",
+			"*.css",
+			"",
+			"*.css",
+			"*.php",
+			"*.html",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"U",
+			"banner",
+			"ip",
+			"functions.js",
+			"valida_email",
+			"each",
+			"tags",
+			"breadcumbs",
+			"outros_posts",
+			"def get(self, ",
+			"tag",
+			".keys()",
+			"),\n",
+			"visitas",
+			"758792",
+			"%}",
+			"datetime",
+			"blog",
+			"eventos",
+			"carregar-mais",
+			"LANGUAGE_CODE",
+			"template",
+			"material",
+			"--",
+			"&",
+			"%",
+			",",
+			"‡",
+			"ˆ",
+			"‡æ",
+			"--",
+			"-",
+			"--",
+			" ",
+			"_",
+			")",
+			"(",
+			" ",
+			",",
+			"ˆ",
+			"--",
+			"_",
+			"-.",
+			")",
+			"(",
+			"%",
+			" ",
+			"control-previous-next",
+			"bxslider",
+			"hotsites",
+			"slider",
+			"bx",
+			"produto.png",
+			"image",
+			"mensagme",
+			"display: block",
+			"show",
+			"eventos",
+			"data_evento",
+			"noticias",
+			"red",
+			"ckeditor",
+			"Rich",
+			"StringIO",
+			"os ",
+			" ",
+			"slugfy",
+			"<WP:comment_author_email><",
+			"447",
+			"_ip",
+			"_IP",
+			"<category",
+			"category",
+			"tag",
+			"17:27:06",
+			"`Grupo_EquadorXFranca_02.png",
+			"Oitavas",
+			"Quartas",
+			"te",
+			"se",
+			"remove",
+			"remove[",
+			"remove",
+			"{",
+			"ddd",
+			"get_thumbnail",
+			"***",
+			"ó",
+			".",
+			"®",
+			"á",
+			"ã",
+			"ç",
+			" ",
+			"%",
+			" ",
+			"®",
+			"emabalagem",
+			"ferramenta_recorte",
+			"Ferramenta de Recorte para Embalagens",
+			"idioma",
+			"®",
+			" ",
+			"deploy",
+			"previous",
+			"contro",
+			"bxslider",
+			"bx-slider",
+			"institucional",
+			"info-product",
+			"social",
+			"material",
+			".",
+			"\n",
+			", ",
+			"$( window ).height()",
+			"over",
+			"trabalhe",
+			"',)",
+			"video",
+			"agrociencia",
+			"icons-lines",
+			" 'todos'",
+			"produtos",
+			"agro",
+			"images",
+			"images/",
+			"jobs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-",
+			"",
+			"c",
+			"e",
+			"ca",
+			"-",
+			"a",
+			"-",
+			"",
+			"-",
+			"",
+			"e",
+			"-",
+			"",
+			"-",
+			"models",
+			"mensagem",
+			"-",
+			"o",
+			"",
+			"a",
+			"c",
+			"-",
+			"",
+			"-",
+			"",
+			"-",
+			"",
+			", ",
+			"\n",
+			"altura_janela",
+			"",
+			"../images/",
+			" OR",
+			"OR",
+			"../images/",
+			"agroencontro.com.br",
+			"agroencontro2",
+			"crop_blog",
+			"	",
+			"    ",
+			"block conteudo",
+			"Outros",
+			"Tipos de Produtos",
+			"",
+			"600px",
+			"400px",
+			"30%",
+			"<div class=\"chart-container\" style=\"float:left;width:33%;\">",
+			"Não se Aplica</option>",
+			"a-realizar.png\">A Realizar</option>",
+			"em-execucao.png\">Em Execução</option>",
+			"concluido.png\">Concluído</option>",
+			"na.png\">N.A.</option>",
+			"\"",
+			"23",
+			"\n",
+			"_",
+			"",
+			"e",
+			"a",
+			"c",
+			"",
+			"_",
+			"\n",
+			"help-text",
+			"cargo",
+			"website",
+			"organizacao",
+			"padding:5px 0;text-align:justify;",
+			"padding:5px 0;",
+			"text-indent:50px; padding:10px 0;",
+			"col_9",
+			"col_3",
+			"",
+			"<tr><td colspan=\"4\"><hr></td></tr>",
+			"td colspan",
+			"colspan=\"4\"",
+			"<tr><td colspan=\"2\"><hr></td></tr>",
+			"",
+			": ",
+			":",
+			"inovarof/inovar.midiadigitalourofino.com",
+			"/",
+			"patente_formset",
+			"",
+			",",
+			"",
+			"/static/site/css/",
+			"C:\\Users\\jose.cruz\\Desktop\\bkpPG-ourofino1-Qua 13-03-13",
+			"unidade='MIDIA-DIGITAL'",
+			"cadastro__unidade='MIDIA-DIGITAL'",
+			"request.user.get_profile()",
+			"Q(unidades=u)",
+			"for u in cadastro.unidades.all():",
+			"Data de Validação",
+			"validado",
+			"territorio",
+			"estado",
+			"cargo",
+			"h2",
+			"jpg",
+			"744",
+			"",
+			"datetime",
+			"à",
+			"í",
+			"ê",
+			"õ",
+			"ç",
+			"á",
+			"é",
+			"\"",
+			"ó",
+			"\"",
+			"é",
+			"ã",
+			"í",
+			"á",
+			" ",
+			"",
+			"daily",
+			"username",
+			"password",
+			"auth_user",
+			"",
+			"carga_usuarios_intranet",
+			"desafio2013/nossodesafioem2013.com.br"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "github-blog.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"app\\static\\site\\templates\\pt-br\\index.html"
+			],
+			[
+				"bat",
+				"batch.txt"
+			],
+			[
+				"index.html",
+				"jogo/static/site/templates/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"sorte",
+				"C:\\wamp\\www\\sorteio\\03_site\\sorteio.sublime-project"
+			],
+			[
+				"tv",
+				"C:\\wamp\\www\\tv\\tv.sublime-project"
+			],
+			[
+				"",
+				"C:\\wamp\\www\\fazenda2\\03_Site\\fazenda2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 456.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
